@@ -18,8 +18,7 @@
 
 
 * For awareness: 
-    * DLT's WAX Mainnet Hyperion endpoint is once again serving **full history**
-    * DLT's IPFS Gateway can be accessed via https://ipfs.gateway.detroitledger.tech (now reflected in our bp json)
+    * DLT's IPFS Gateway can be accessed via https://ipfs.gateway.detroitledger.tech
     * DLT's Daily WAX Nodeos Snapshots are available at: https://snapshots.detroitledger.tech 
     * DLT's Monthly AtomicAssets API (v1.3.24) database backups are available at: https://detroitledger.tech/backups/atomic
         * Please feel free to contact us if you are in need of a current-day backup!
@@ -32,8 +31,8 @@
 | Stats |WAX Hyperion - FULL (mainnet)| Chain / History (full) | AtomicAssets API | IPFS |
 |---------------------|----------------------------------|------------------------|-------------------|-----------------|
 | Active|Yes|Yes|Yes|Yes| **
-| Requests/day| 57,920 | 143,116 |13,762|N/A|
-| Additional Info|Back to FULL history :D| ||ipfs.gateway.detroitledger.tech
+| Requests/day| 94,121 | 121,763 |16,176|N/A|
+| Additional Info|| ||ipfs.gateway.detroitledger.tech
 
 
 ### <ins>Contributions</ins>
@@ -109,11 +108,3 @@ Daily WAX Mainnet Snapshots - https://snapshots.detroitledger.tech
 ### <ins>Feedback to OIG</ins>
 
 None.
-
-
-
-
-
-
-
-
